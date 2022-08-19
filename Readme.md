@@ -1,0 +1,1 @@
+Esse código é um projeto simples de preenchimento de vagas utilizando "vetores" em Python
