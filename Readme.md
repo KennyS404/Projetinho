@@ -1,1 +1,2 @@
-Esse código é um projeto simples de preenchimento de vagas utilizando "vetores" em Python
+Projeto pessoal de locação de brinquedos, 
+com um toque de perfumaria na animação.
